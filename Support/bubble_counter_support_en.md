@@ -1,8 +1,8 @@
-# Bubble Counter CO₂ Support
+# Bubble Tempo Support
 
-Welcome to the support page for **Bubble Counter CO₂**.
+Welcome to the support page for **Bubble Tempo**.
 
-Bubble Counter CO₂ is an iPhone app that uses the camera to count CO₂ bubbles and measure their flow rate.
+Bubble Tempo is an iPhone app that uses the camera to count CO₂ bubbles and measure their flow rate.
 
 ## Contact
 
@@ -30,7 +30,7 @@ To help us understand and resolve your issue faster, please include:
 
 We also welcome feature requests and general feedback.  
 
-If you have ideas that could improve Bubble Counter CO₂, feel free to send them by email.
+If you have ideas that could improve Bubble Tempo, feel free to send them by email.
 
 ## Privacy
 
@@ -42,4 +42,4 @@ We aim to respond within a few business days.
 
 ---
 
-Thank you for using **Bubble Counter CO₂**.
+Thank you for using **Bubble Tempo**.

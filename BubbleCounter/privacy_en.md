@@ -1,4 +1,4 @@
-# Privacy Policy for Bubble Counter CO₂
+# Privacy Policy for Bubble Tempo
 
 **Effective date:** 11 October 2026
 
@@ -6,7 +6,7 @@
 
 [Polski](privacy_pl)
 
-Bubble Counter CO₂ uses your iPhone camera to analyze bubble flow in a transparent CO₂ bubble counter. Images are processed locally on your device. The app does not send camera frames or measurement results to a server or make them available to the developer.
+Bubble Tempo uses your iPhone camera to analyze bubble flow in a transparent CO₂ bubble counter. Images are processed locally on your device. The app does not send camera frames or measurement results to a server or make them available to the developer.
 
 The app does not require an account and contains no advertising, tracking tools, or third-party analytics SDKs. It does not collect personal data through the app. It does not request access to your location or photo library.
 
@@ -14,7 +14,7 @@ Interface and measurement preferences, including the analysis area settings, are
 
 You can revoke camera permission in iOS Settings. Image-based measurement cannot work without camera access.
 
-Apple handles the purchase and distribution of the app through the App Store. Apple's payment terms and platform privacy practices are separate from the operation of Bubble Counter CO₂. There are no in-app purchases or subscriptions.
+Apple handles the purchase and distribution of the app through the App Store. Apple's payment terms and platform privacy practices are separate from the operation of Bubble Tempo. There are no in-app purchases or subscriptions.
 
 This policy will be updated if the app's data processing practices change. Questions about the app and its privacy can be sent to the developer contact listed above.
 
